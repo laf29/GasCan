@@ -9,11 +9,11 @@
 **Working Title:**
 
 * Gas Can
-* 
+  
 **Concept Statement:**
 
 * You have to drive the longest distance possible without colliding with trees or rocks 
-* 
+  
 **Genre(s) :**
 
 * Infinite driving, Endless-Runner
@@ -22,15 +22,15 @@
 
 * Simple fun endless game
 * Couldn't find something similar online
-* 
+  
 **Visual and Audio Style:**
 
 * Low-poly 3d models
-* 
+  
 **Game World Fiction:**
 
 * You're just driving for fun on a dirt road through the mountains
-* 
+  
 **Platform, Technology, and Scope:**
 
 * Coded in Godot
@@ -39,7 +39,7 @@
 **Core Loops:**
 
 * Drive -> Gain points -> Upgrade -> Drive
-* 
+  
 **Objectives and Progression:**
 
 * Drive furthest possible
@@ -51,11 +51,14 @@
 * More upgrades = easier to drive further
 * Infinite endless-runner
 * Rocks appear more often and you go faster as the game goes on
-* 
+  
 **Interactivity:**
 
 * Arrow keys to steer
 * Buttons in shop and menu
+
+
+
 
 
 
@@ -76,4 +79,5 @@
 **Week 8: Code Collision.**
 
 **Week 9: Create death screen.**  
+
 
